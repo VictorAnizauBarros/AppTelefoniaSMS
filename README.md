@@ -1,4 +1,4 @@
-# AppTelefoniaSMS
+# GoCall SMS
 
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -8,7 +8,7 @@ Um aplicativo móvel simples desenvolvido com React Native e Expo para facilitar
 
 ## 📋 Descrição
 
-O **AppTelefoniaSMS** é uma aplicação intuitiva que permite aos usuários fazer ligações telefônicas e enviar mensagens SMS de forma rápida e eficiente. Ideal para desenvolvedores que desejam aprender sobre integração de funcionalidades nativas do dispositivo em apps React Native.
+O **GoCall SMS** é uma aplicação intuitiva que permite aos usuários fazer ligações telefônicas e enviar mensagens SMS de forma rápida e eficiente. Ideal para desenvolvedores que desejam aprender sobre integração de funcionalidades nativas do dispositivo em apps React Native.
 
 ## ✨ Funcionalidades
 
@@ -41,8 +41,8 @@ Antes de começar, certifique-se de ter instalado:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/VictorAnizauBarros/AppTelefoniaSMS.git
-   cd AppTelefoniaSMS
+   git clone https://github.com/VictorAnizauBarros/GoCall SMS.git
+   cd GoCall SMS
    ```
 
 2. **Instale as dependências:**
@@ -73,7 +73,7 @@ Antes de começar, certifique-se de ter instalado:
 ## 🏗️ Estrutura do Projeto
 
 ```
-AppTelefoniaSMS/
+GoCall SMS/
 ├── App.js                 # Componente principal com navegação
 ├── app.json               # Configurações do Expo
 ├── package.json           # Dependências e scripts
@@ -110,7 +110,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Victor Anizau Barros - victorhugo.anizau@outlook.com | https://www.linkedin.com/in/victor-hugo-anizau-barros-65a775322/
 
-Link do Projeto: [https://github.com/VictorAnizauBarros/AppTelefoniaSMS](https://github.com/VictorAnizauBarros/AppTelefoniaSMS)
+Link do Projeto: [https://github.com/VictorAnizauBarros/GoCall SMS](https://github.com/VictorAnizauBarros/GoCall SMS)
 
 ## 🙏 Agradecimentos
 
@@ -121,4 +121,4 @@ Link do Projeto: [https://github.com/VictorAnizauBarros/AppTelefoniaSMS](https:/
 ---
 
 ⭐ Se este projeto foi útil para você, dê uma estrela no GitHub!</content>
-<parameter name="filePath">c:\Users\victo\Desktop\AppTelefoniaSMS\README.md
+<parameter name="filePath">c:\Users\victo\Desktop\GoCall SMS\README.md
